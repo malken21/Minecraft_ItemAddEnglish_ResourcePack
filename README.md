@@ -3,5 +3,7 @@
 ![2022-09-26_11 58 39](https://user-images.githubusercontent.com/77374813/192189533-62677f52-180f-4fa5-bd25-a765e4b01b4b.png)
 
 Add English to all non-English languages
+<br>
 Make items and blocks visible even when searching in English
+<br>
 English is added only to blocks and items
