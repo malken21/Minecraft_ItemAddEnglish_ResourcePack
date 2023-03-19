@@ -1439,6 +1439,7 @@
 	"item.minecraft.brown_dye": "Dheeha madow  Brown Dye",
 	"item.minecraft.bucket": "Baaldi  Bucket",
 	"item.minecraft.bundle": "Xidhmo  Bundle",
+	"item.minecraft.bundle.fullness": "%s/%s  %s/%s",
 	"item.minecraft.carrot": "Karoto  Carrot",
 	"item.minecraft.carrot_on_a_stick": "Karootada Usha  Carrot on a Stick",
 	"item.minecraft.cat_spawn_egg": "Bisad ku dhalatay ukunta  Cat Spawn Egg",

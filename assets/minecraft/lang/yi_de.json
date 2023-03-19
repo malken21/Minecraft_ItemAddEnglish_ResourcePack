@@ -1617,6 +1617,7 @@
 	"item.minecraft.brown_dye": "ברויינער פארבשטאף  Brown Dye",
 	"item.minecraft.bucket": "עמער  Bucket",
 	"item.minecraft.bundle": "פּעקל  Bundle",
+	"item.minecraft.bundle.fullness": "%s/%s  %s/%s",
 	"item.minecraft.camel_spawn_egg": "דראָמעדאַר רויגן־אײ  Camel Spawn Egg",
 	"item.minecraft.carrot": "מער  Carrot",
 	"item.minecraft.carrot_on_a_stick": "מעררוט  Carrot on a Stick",
